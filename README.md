@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="Cyber - Cloud & DevSecOps Engineer Banner">
+</p>
+
 <h1 align="center">Hi, I'm cyberhen 👋  <b>Henry 😶‍🌫️</b> </h1> 
 <p align="center">
   <strong>Cloud Engineer | DevOps | DevSecOps (Intern)</strong><br>
@@ -14,6 +21,16 @@
 - 🎯 Goal: Become a Cloud Security / DevSecOps Engineer
 
 ---
+
+## 🏷️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Admin-blue?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Power%20User-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
 ## 🧪 Featured Projects
 
