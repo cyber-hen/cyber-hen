@@ -1,15 +1,21 @@
+<!-- 🔥 Dual Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="Cyber - Cloud & DevSecOps Engineer Banner">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="45%" />
 </p>
 
-<h1 align="center">Hi, I'm cyberhen 👋  <b>Henry 😶‍🌫️</b> </h1> 
+<!-- 🔥 Medium-Sized Custom Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.png" width="75%" alt="Cyber - Cloud & DevSecOps Engineer Banner">
+</p>
+
+<!-- 🔥 Name + Intro -->
+<h1 align="center">Hi, I'm <b>Henry</b> (cyberhen) 👋</h1>
 <p align="center">
   <strong>Cloud Engineer | DevOps | DevSecOps (Intern)</strong><br>
   Passionate about building secure, automated, and scalable cloud environments.
 </p>
+
 
 ---
 
