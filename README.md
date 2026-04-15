@@ -26,6 +26,9 @@
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/cyber-hen?style=social)
+
+
 ## 🏷️ Badges
 
 <p align="center">
