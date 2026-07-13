@@ -22,7 +22,7 @@
 - 🛡️ Hands-on experience with VPCs, IAM, Security Groups, NACLs, and threat detection  
 - 🧰 Tools I use: Linux, GitHub, Terraform, Docker, SIEM tools, Wireshark  
 - 📚 Currently learning: CI/CD pipelines, Infrastructure as Code, cloud security engineering  
-- 🎯 Goal: Become a Cloud Security / DevOps Engineer
+- 🎯 Goal: Become a Cloud / DevOps Engineer
 
 ---
 
