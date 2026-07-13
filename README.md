@@ -10,7 +10,7 @@
 <!-- 🔥 Name + Intro -->
 <h1 align="center">Hi, I'm <b>Henry</b> (cyberhen) 👋</h1>
 <p align="center">
-  <strong>Cloud Engineer | DevOps | DevSecOps (Intern)</strong><br>
+  <strong>Cloud Engineer | DevOps (Intern)</strong><br>
   Passionate about building secure, automated, and scalable cloud environments.
 </p>
 
